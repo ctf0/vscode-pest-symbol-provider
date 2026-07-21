@@ -2,7 +2,7 @@
     "name": "vscode-pest-symbol-provider",
     "displayName": "Pest Symbol Provider",
     "description": "Adds searchable document symbols for Pest it() tests.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "ctf0",
     "author": "ctf0",
     "repository": "https://github.com/ctf0/vscode-pest-symbol-provider",
